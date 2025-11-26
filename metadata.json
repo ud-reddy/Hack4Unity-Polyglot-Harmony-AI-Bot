@@ -1,0 +1,7 @@
+{
+  "name": "PolyGlot Harmony AI",
+  "description": "A culturally aware, code-switching AI chatbot with emotion detection and cross-language mediation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
