@@ -9,7 +9,7 @@
 As international master’s students, we juggle multiple languages daily. We think in one, speak in another, and sometimes mix three without even noticing. But English — even when we’re fluent — doesn’t always carry our emotions or cultural warmth.
 
 **Polyglot Harmony AI Bot** was created to help people communicate naturally, in their own voice, without linguistic friction.  
-A tool that understands how _we_ speak — not how a textbook expects us to.
+A tool that understands how _we_ speak — not how a textbook expects us to.  
 
 ---
 
