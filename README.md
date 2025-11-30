@@ -64,7 +64,7 @@ Perfect for group projects, international collaborations, or mixed-language team
 - Designed a clean UI with a simple sidebar for the three main tools
 - Implemented real-time language detection for smooth code-switching
 - Built a fast, accurate conversation pipeline
-- Added microphone support with a streamlined permission flow
+- Added microphone support with a streamlined permission flow  
 
 ---
 
